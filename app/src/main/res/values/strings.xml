@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationViewDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_menu">First Menu</string>
+    <string name="second_menu">Second Menu</string>
+    <string name="third_menu">Third Menu</string>
+</resources>
